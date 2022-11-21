@@ -1,7 +1,5 @@
-Vue d'ensemble des systèmes Neuron
+Système d'axes et modèle de mesure
 =====
-
-.. _definition_systeme_axe_et mesure:
 
 Définition du système d’axe et de mesure
 ------------
