@@ -1,10 +1,12 @@
-Welcome to Lumache's documentation!
+Bienvenue sur la documentation du système NEURON!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Ce document est le manuel d’utilisation du systeme de monitoring des structures, Neuron. Une présentation de la partie hardware du système ainsi que son installation sur les structures a été abordée dans une précédente formation. On s’intéresse ici à présenter !
+-	L’interface de supervision
+-	Les algorithmes de calculs et leurs paramétrages
+-	Les tableaux de bord permettant la visualisation des données
+-	Le module de téléchargement des données
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
