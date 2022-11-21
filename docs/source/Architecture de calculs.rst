@@ -1,4 +1,4 @@
-Usage
+Architecture de calculs
 =====
 
 .. _installation:
